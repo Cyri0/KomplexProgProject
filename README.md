@@ -6,13 +6,13 @@ Ez a projekt a klasszikus orosz rulett játék megvalósítása webes környezet
 ## Felhasznált technológiák
 - HTML
 - CSS
-- JavaScript(Vanilla)
-- Django (Python)
+- [JavaScript(Vanilla)](https://www.javascript.com/)
+- [Django (Python)](https://www.djangoproject.com/)
 
 ## Telepítés
 A program használatához csak egy böngészőre, Python interpreterre és telepített Django keretrendszerre van szükség.
 
-##Érdekesebb megoldások
+## Érdekesebb megoldások
 ```javascript
 function hello(){
 	console.log('Hello Világ!');
